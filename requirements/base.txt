@@ -1,4 +1,5 @@
-fastapi[standard]~=0.95
+fastapi~=0.95
+fastapi[standard]
 psycopg2~=2.9
 SQLAlchemy~=2.0
 alembic~=1.10
